@@ -1,0 +1,13 @@
+.block{
+    display: block;
+    text-decoration: turquoise;
+    text-align: left;
+    text-transform: uppercase;
+    color: purple;
+}
+.inline{
+    display: inline;
+    text-align: center;
+    text-wrap: wrap;
+    color: blue;
+}

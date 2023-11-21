@@ -1,0 +1,30 @@
+.overflowxandy{
+    
+    background-color:coral;
+    overflow-y:scroll ;
+    overflow-x: hidden;
+    width: 500px;
+    height: 200px;
+
+}
+
+.scroll{
+    overflow: scroll;
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+}
+
+.hidden{
+    overflow:hidden;
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+}
+
+.auto{
+    overflow:auto;
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+}
